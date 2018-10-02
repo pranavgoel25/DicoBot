@@ -6,5 +6,5 @@ When you search a word, you get the word meaning and it's usage. It's so fast an
 
 ## Geting Started
 
-[WILL BE UPDATED]
+[WILL BE UPDATED SOON]
 
